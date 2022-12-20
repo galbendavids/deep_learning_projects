@@ -4,4 +4,4 @@
 in the first project - we have created a nureal network by our own
 in the scond project - we have used CNN networks in order to build out own implemeantion of siamese nueral network for comparison task
 in the third project - we have used music and some words in order to create automatic lyrics to a song using LSTM
-in the fourth projcet - 
+in the fourth projcet - we have used GANs ans created two generative architectures: a) standard GAN, and; b) a modified GAN architecture in order to face real-life problems
